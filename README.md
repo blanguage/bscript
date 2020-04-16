@@ -1,5 +1,8 @@
 <h1>🅱️script</h1>
 <h4>An extensible, lightweight, and cross platform language core and interpreter built in Java.</h4>
+<p>Original repository can be found <a href="https://www.github.com/hershyz/bscript">here</a>.</p>
+
+<br>
 
 <h3>Prerequisites</h3>
 <p>bscript requires the Java runtime environment, install Java 8 <a href="https://www.oracle.com/java/technologies/javase-jre8-downloads.html">here</a> if you don't already have it.</p>
