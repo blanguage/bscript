@@ -1,5 +1,5 @@
 <h1>🅱️script</h1>
-<h4>An extendible, cross platform scripting language written in Java.</h4>
+<h4>An extendable, cross platform scripting language written in Java.</h4>
 <p>Original repository can be found <a href="https://www.github.com/hershyz/bscript">here</a>.</p>
 
 <br>
